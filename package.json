@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "Zachary Forrest",
+    "email": "zach.forrest@sonos.com"
+  },
+  "name": "sonos-webdriverio",
+  "description": "A Sonos configuration file for Webdriver.io ",
+  "keywords": [
+    "test",
+    "assertion",
+    "assert",
+    "testing",
+    "chai",
+    "selenium",
+    "saucelabs",
+    "webdriver"
+  ],
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Matt Yanchek",
+      "email": "matt.yanchek@sonos.com"
+    }
+  ],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zdfs/sonos-webdriverio"
+  },
+  "bugs": {
+    "url": "https://github.com/zdfs/sonos-webdriverio/issues"
+  },
+  "main": "./index",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "dependencies": {
+    "chai": "1.9.2",
+    "chai-as-promised": "4.1.1",
+    "minimist": "1.1.0"
+  },
+  "readmeFilename": "README.md",
+  "_id": "sonos-drive@0.0.1",
+  "_from": "sonos-drive@~0.0.1",
+  "private": true
+}

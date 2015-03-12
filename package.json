@@ -37,7 +37,8 @@
   "dependencies": {
     "chai": "1.9.2",
     "chai-as-promised": "4.1.1",
-    "minimist": "1.1.0"
+    "minimist": "1.1.0",
+    "lodash": "^2.4.1"
   },
   "readmeFilename": "README.md",
   "_id": "sonos-drive@0.0.1",

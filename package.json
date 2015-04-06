@@ -22,7 +22,7 @@
       "email": "matt.yanchek@sonos.com"
     }
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/zdfs/sonos-webdriverio"
@@ -37,8 +37,7 @@
   "dependencies": {
     "chai": "1.9.2",
     "chai-as-promised": "4.1.1",
-    "minimist": "1.1.0",
-    "lodash": "^2.4.1"
+    "minimist": "1.1.0"
   },
   "readmeFilename": "README.md",
   "_id": "sonos-drive@0.0.1",
